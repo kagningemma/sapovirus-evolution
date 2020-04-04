@@ -1,2 +1,2 @@
 # sapovirus-evolution
-Studies of sapovirus intra-genotypic evolution patterns, within and between-host evolution may contribute to a better understanding of worldwide sapovirus epidemiology and evolution. 
+Studies of sapovirus intra-genotypic evolution patterns, within and between-host evolution may contribute to a better understanding of worldwide sapovirus epidemiology and evolution. Sapovirus genome was sequenced using protocol of Quick et al, Nat. protocols, 2017; and we compared single nucleotide polymorphisms of GI.1 and GI.2 populations within hosts, between-host. I also compared genetic diversity of each viral population. 
