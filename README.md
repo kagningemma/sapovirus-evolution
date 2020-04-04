@@ -1,2 +1,2 @@
 # sapovirus-evolution
-Here, i have stored python, R, Linux scripts and outputs relevant to study of sapovirus within host and between host evolution.
+Studies of sapovirus intra-genotypic evolution patterns, within and between-host evolution may contribute to a better understanding of worldwide sapovirus epidemiology and evolution. 
