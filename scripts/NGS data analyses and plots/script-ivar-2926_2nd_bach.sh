@@ -1,6 +1,4 @@
 #!/bin/bash 
-echo "GANBATTE! Kagning Tsinda Emmanuel"
-
 # index ref
 bwa index 2884_phil_batch2.consensus.fa
 echo "reference indexed"
