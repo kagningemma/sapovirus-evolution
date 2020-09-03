@@ -1,0 +1,17 @@
+REGION	POS	REF	ALT	REF_DP	REF_RV	REF_QUAL	ALT_DP	ALT_RV	ALT_QUAL	ALT_FREQ	TOTAL_DP	PVAL	PASS	GFF_FEATURE	REF_CODON	REF_AA	ALT_CODON	ALT_AA	S_or_NS
+Consensus_20_peru.consensus_threshold_0_quality_20	257	A	G	716	716	38	26	26	38	0.0350404	742	1.03566E-08	TRUE	ORF1	CCA	P	CCG	P	S
+Consensus_20_peru.consensus_threshold_0_quality_20	2237	T	C	3790	1008	38	218	75	36	0.0543912	4008	3.95427E-61	TRUE	ORF1	ACT	T	ACC	T	S
+Consensus_20_peru.consensus_threshold_0_quality_20	2525	A	T	182	182	38	40	40	38	0.18018	222	9.05666E-14	TRUE						
+Consensus_20_peru.consensus_threshold_0_quality_20	2822	C	T	1417	694	36	54	27	37	0.0367097	1471	5.40162E-16	TRUE	ORF1	GGC	G	GGT	G	S
+Consensus_20_peru.consensus_threshold_0_quality_20	3282	G	A	623	623	36	22	22	34	0.0341085	645	1.82383E-07	TRUE	ORF1	GTC	V	ATC	I	NS
+Consensus_20_peru.consensus_threshold_0_quality_20	3503	A	G	2022	2022	36	135	135	22	0.0625579	2158	4.95709E-23	TRUE	ORF1	GGA	G	GGG	G	S
+Consensus_20_peru.consensus_threshold_0_quality_20	3522	G	C	105	105	38	12	12	36	0.102564	117	0.000155155	TRUE						
+Consensus_20_peru.consensus_threshold_0_quality_20	4013	C	T	242	242	38	11	11	37	0.0434783	253	0.000400376	TRUE						
+Consensus_20_peru.consensus_threshold_0_quality_20	5666	T	C	2420	2420	35	141	141	34	0.0550566	2561	4.74088E-41	TRUE	ORF1	CCT	P	CCC	P	S
+Consensus_20_peru.consensus_threshold_0_quality_20	5889	G	A	16235	16235	37	965	965	38	0.0561047	17200	6.02576E-268	TRUE	ORF1	GTT	V	ATT	I	NS
+Consensus_20_peru.consensus_threshold_0_quality_20	5939	C	T	14237	13165	38	7041	6239	38	0.330905	21278	0	TRUE	ORF1	AAC	N	AAT	N	S
+Consensus_20_peru.consensus_threshold_0_quality_20	6186	C	G	12601	0	37	838	0	35	0.0623558	13439	2.70106E-239	TRUE	ORF1	CCA	P	GCA	A	NS
+Consensus_20_peru.consensus_threshold_0_quality_20	6363	G	A	9398	2849	37	812	269	37	0.0795143	10212	1.75388E-236	TRUE	ORF1	GCC	A	ACC	T	NS
+Consensus_20_peru.consensus_threshold_0_quality_20	6393	G	A	9110	3348	36	843	352	37	0.0846981	9953	6.24585E-246	TRUE	ORF1	GTT	V	ATT	I	NS
+Consensus_20_peru.consensus_threshold_0_quality_20	6403	T	C	8460	3360	37	1254	635	37	0.129079	9715	0	TRUE	ORF1	ATG	M	ACT	T	NS
+Consensus_20_peru.consensus_threshold_0_quality_20	7150	C	T	5	5	37	3	3	37	0.375	8	0.123077	FALSE						

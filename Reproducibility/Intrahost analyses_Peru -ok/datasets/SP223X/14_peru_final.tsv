@@ -1,0 +1,15 @@
+REGION	POS	REF	ALT	REF_DP	REF_RV	REF_QUAL	ALT_DP	ALT_RV	ALT_QUAL	ALT_FREQ	TOTAL_DP	PVAL	PASS	GFF_FEATURE	REF_CODON	REF_AA	ALT_CODON	ALT_AA	S_or_NS
+Consensus_14_peru.consensus_threshold_0_quality_20	2525	A	T	927	927	38	88	88	38	0.0866995	1015	1.19815E-26	TRUE	ORF1					
+Consensus_14_peru.consensus_threshold_0_quality_20	3365	A	G	3861	3861	38	342	342	38	0.0813704	4203	4.02665E-100	TRUE	ORF1					
+Consensus_14_peru.consensus_threshold_0_quality_20	3489	C	A	8609	8609	37	459	459	38	0.0506176	9068	8.24529E-127	TRUE	ORF1					
+Consensus_14_peru.consensus_threshold_0_quality_20	3500	G	A	7884	7884	36	1575	1575	32	0.166508	9459	0	TRUE	ORF1					
+Consensus_14_peru.consensus_threshold_0_quality_20	3857	C	T	892	892	38	336	336	38	0.273616	1228	5.41526E-113	TRUE	ORF1					
+Consensus_14_peru.consensus_threshold_0_quality_20	5592	G	A	1238	1037	38	704	701	38	0.362326	1943	6.63631E-246	TRUE	ORF1					
+Consensus_14_peru.consensus_threshold_0_quality_20	6549	A	C	208	208	38	14	14	38	0.0630631	222	4.78498E-05	TRUE						
+Consensus_14_peru.consensus_threshold_0_quality_20	7150	T	C	1247	1247	37	235	235	36	0.15857	1482	1.28949E-75	TRUE	ORF2					
+Consensus_14_peru.consensus_threshold_0_quality_20	7246	A	G	1772	1772	38	1074	1074	38	0.377372	2846	0	TRUE	ORF2					
+Consensus_14_peru.consensus_threshold_0_quality_20	7329	T	-CNNNNN	10	10	33	2	0	20	0.2	10	0.00643527	TRUE						
+Consensus_14_peru.consensus_threshold_0_quality_20	7330	C	-NNNNNN	7	7	28	4346	0	20	620.857	7	0	TRUE						
+Consensus_14_peru.consensus_threshold_0_quality_20	7331	N	-NNNNNT	0	0	0	3	0	20	inf	0	1.10422E-06	TRUE						
+Consensus_14_peru.consensus_threshold_0_quality_20	7334	N	-NNTTTT	0	0	0	1	0	20	inf	0	0.0101103	FALSE						
+Consensus_14_peru.consensus_threshold_0_quality_20	7336	N	C	0	0	0	13	13	24	1	13	5.51928E-26	TRUE						

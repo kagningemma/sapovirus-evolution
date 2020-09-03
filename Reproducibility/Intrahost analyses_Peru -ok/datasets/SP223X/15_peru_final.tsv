@@ -1,0 +1,21 @@
+REGION	POS	REF	ALT	REF_DP	REF_RV	REF_QUAL	ALT_DP	ALT_RV	ALT_QUAL	ALT_FREQ	TOTAL_DP	PVAL	PASS	GFF_FEATURE	REF_CODON	REF_AA	ALT_CODON	ALT_AA	S_or_NS
+Consensus_14_peru.consensus_threshold_0_quality_20	707	G	A	1883	0	38	173	0	38	0.084144	2056	9.67705E-52	TRUE	ORF1	CTG	L	CTA	L	S
+Consensus_14_peru.consensus_threshold_0_quality_20	710	A	G	1880	0	38	174	0	38	0.0847128	2054	4.59533E-52	TRUE	ORF1	AAA	K	AAG	K	S
+Consensus_14_peru.consensus_threshold_0_quality_20	2525	A	T	724	724	38	107	107	38	0.128761	831	5.562E-35	TRUE	ORF1	ACA	T	ACT	T	S
+Consensus_14_peru.consensus_threshold_0_quality_20	3365	A	G	3680	3680	38	542	542	38	0.128345	4223	2.21759E-165	TRUE	ORF1	GTA	V	GTG	V	S
+Consensus_14_peru.consensus_threshold_0_quality_20	3489	C	A	8765	8765	37	405	405	38	0.0441658	9170	5.52692E-110	TRUE	ORF1	CGG	R	AGG	R	S
+Consensus_14_peru.consensus_threshold_0_quality_20	3500	G	A	8059	8059	36	1468	1468	32	0.154088	9527	0	TRUE	ORF1	GTG	V	GTA	V	S
+Consensus_14_peru.consensus_threshold_0_quality_20	3857	C	T	833	833	38	256	256	38	0.235078	1089	8.92168E-84	TRUE	ORF1	ATC	I	ATT	I	S
+Consensus_14_peru.consensus_threshold_0_quality_20	3887	T	C	1765	1765	38	142	142	38	0.0744235	1908	2.95334E-43	TRUE	ORF1	ACT	T	ACC	T	S
+Consensus_14_peru.consensus_threshold_0_quality_20	4880	C	T	5546	5546	37	515	515	37	0.0849695	6061	6.72309E-150	TRUE	ORF1	GAC	D	GAT	D	S
+Consensus_14_peru.consensus_threshold_0_quality_20	5592	G	A	1089	938	38	952	943	38	0.466438	2041	0	TRUE	ORF1	GTC	V	ATC	I	NS
+Consensus_14_peru.consensus_threshold_0_quality_20	7150	T	C	1521	1521	37	229	229	37	0.130857	1750	1.2317E-72	TRUE	ORF2	CTA	L	CCA	P	NS
+Consensus_14_peru.consensus_threshold_0_quality_20	7246	A	G	2500	2500	38	804	804	38	0.243341	3304	3.10609E-261	TRUE	ORF2	CAA	Q	CGA	R	NS
+Consensus_14_peru.consensus_threshold_0_quality_20	7328	T	-TCNNNN	9	9	35	1	0	20	0.111111	9	0.0956611	FALSE						
+Consensus_14_peru.consensus_threshold_0_quality_20	7329	T	-CNNNNN	7	7	27	2	0	20	0.285714	7	0.00349644	TRUE						
+Consensus_14_peru.consensus_threshold_0_quality_20	7330	C	-NNNNNNT	4	4	21	3	0	20	0.75	4	3.78137E-05	TRUE						
+Consensus_14_peru.consensus_threshold_0_quality_20	7330	C	-NNNNNN	4	4	21	5290	0	20	1322.5	4	0	TRUE						
+Consensus_14_peru.consensus_threshold_0_quality_20	7330	C	-NNNNN	4	4	21	1	0	20	0.25	4	0.0498882	FALSE						
+Consensus_14_peru.consensus_threshold_0_quality_20	7331	N	-NNNNNT	0	0	0	3	0	20	inf	0	1.1159E-06	TRUE						
+Consensus_14_peru.consensus_threshold_0_quality_20	7334	N	-NNTTTT	0	0	0	1	0	20	inf	0	0.0101868	FALSE						
+Consensus_14_peru.consensus_threshold_0_quality_20	7336	N	C	0	0	0	18	18	23	1	18	1.66464E-35	TRUE						

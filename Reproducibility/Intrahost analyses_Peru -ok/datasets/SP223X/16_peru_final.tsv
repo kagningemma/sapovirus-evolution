@@ -1,0 +1,20 @@
+REGION	POS	REF	ALT	REF_DP	REF_RV	REF_QUAL	ALT_DP	ALT_RV	ALT_QUAL	ALT_FREQ	TOTAL_DP	PVAL	PASS	GFF_FEATURE	REF_CODON	REF_AA	ALT_CODON	ALT_AA	S_or_NS	stop
+Consensus_14_peru.consensus_threshold_0_quality_20	792	G	#NAME?	1416	720	37	101	0	20	0.0713277	1416	2.19E-17	TRUE	ORF1	GTT	V	TTT	F	NS	
+Consensus_14_peru.consensus_threshold_0_quality_20	2525	A	T	71	71	38	9	9	38	0.1125	80	0.00137301	TRUE							
+Consensus_14_peru.consensus_threshold_0_quality_20	4217	A	T	49	0	36	5	0	37	0.0925926	54	0.0297484	FALSE							
+Consensus_14_peru.consensus_threshold_0_quality_20	4880	C	T	7655	7655	37	538	538	37	0.0656658	8193	1.39E-152	TRUE	ORF1	GAC	D	GAT	D	S	
+Consensus_14_peru.consensus_threshold_0_quality_20	4954	A	G	8440	8440	38	303	303	37	0.0346563	8743	6.03E-81	TRUE	ORF1	AAG	K	AAG	R	NS	
+Consensus_14_peru.consensus_threshold_0_quality_20	5592	G	A	941	876	38	1506	1505	38	0.615447	2447	0	TRUE	ORF1	GTC	V	ATC	I	NS	
+Consensus_14_peru.consensus_threshold_0_quality_20	7150	T	C	1575	1575	37	448	448	37	0.221453	2023	9.05E-146	TRUE	ORF2	CTA	L	CCA	P	NS	
+Consensus_14_peru.consensus_threshold_0_quality_20	7181	A	G	2545	2545	37	104	104	37	0.0392453	2650	1.83E-29	TRUE	ORF2	TGG	W	TGA	*	NS	
+Consensus_14_peru.consensus_threshold_0_quality_20	7183	C	A	2482	2482	37	154	154	38	0.0584219	2636	5.12E-45	TRUE	ORF2	ACG	T	AAG	K	NS	stop
+Consensus_14_peru.consensus_threshold_0_quality_20	7184	G	A	2036	2036	38	585	585	36	0.222772	2626	4.56E-191	TRUE	ORF2	ACG	T	ACA	T	S	
+Consensus_14_peru.consensus_threshold_0_quality_20	7194	C	T	2532	2532	38	510	510	38	0.167653	3042	3.41E-158	TRUE	ORF2	CAG	Q	TAG	*	NS	stop
+Consensus_14_peru.consensus_threshold_0_quality_20	7206	C	T	2619	2619	38	698	698	38	0.210431	3317	4.03E-223	TRUE	ORF2	CAT	H	TAT	Y	NS	
+Consensus_14_peru.consensus_threshold_0_quality_20	7208	T	C	3113	3113	38	241	241	37	0.0718545	3354	1.01E-70	TRUE	ORF2	CAT	H	CAC	H	S	
+Consensus_14_peru.consensus_threshold_0_quality_20	7246	A	G	2983	2983	38	910	910	38	0.233753	3893	1.11E-294	TRUE	ORF2	CAA	Q	CGA	R	NS	
+Consensus_14_peru.consensus_threshold_0_quality_20	7303	A	G	5024	5024	38	202	202	38	0.0386455	5227	6.52E-55	TRUE	ORF2	GAT	D	GGT	G	NS	
+Consensus_14_peru.consensus_threshold_0_quality_20	7329	T	#NAME?	7	7	25	2	0	20	0.285714	7	0.00351275	TRUE							
+Consensus_14_peru.consensus_threshold_0_quality_20	7330	C	#NAME?	2	2	22	5586	0	20	2793	2	0	TRUE							
+Consensus_14_peru.consensus_threshold_0_quality_20	7332	N	#NAME?	0	0	0	1	0	20	inf	0	0.0100197	FALSE							
+Consensus_14_peru.consensus_threshold_0_quality_20	7336	N	C	0	0	0	19	19	24	1	19	2.01E-37	TRUE							

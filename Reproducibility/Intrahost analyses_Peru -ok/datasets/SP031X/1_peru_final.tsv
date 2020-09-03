@@ -1,0 +1,17 @@
+REGION	POS	REF	ALT	REF_DP	REF_RV	REF_QUAL	ALT_DP	ALT_RV	ALT_QUAL	ALT_FREQ	TOTAL_DP	PVAL	PASS
+Consensus_1_peru.consensus_threshold_0_quality_20	5099	T	+A	64	64	38	4	0	20	0.0606061	66	0.0653734	FALSE
+Consensus_1_peru.consensus_threshold_0_quality_20	5150	C	T	92	92	38	32	32	37	0.258065	124	1.77549e-11	TRUE
+Consensus_1_peru.consensus_threshold_0_quality_20	5788	A	-NNNN	147	3	29	2998	0	20	20.3946	147	0	TRUE
+Consensus_1_peru.consensus_threshold_0_quality_20	5789	N	T	0	0	0	5	0	26	0.625	8	1.56105e-10	TRUE
+Consensus_1_peru.consensus_threshold_0_quality_20	5789	N	C	0	0	0	3	3	38	0.375	8	4.37844e-09	TRUE
+Consensus_1_peru.consensus_threshold_0_quality_20	5789	N	-NNNT	0	0	0	1	0	20	0.125	8	0.0102853	FALSE
+Consensus_1_peru.consensus_threshold_0_quality_20	5790	N	T	0	0	0	3	3	39	1	3	4.4003e-09	TRUE
+Consensus_1_peru.consensus_threshold_0_quality_20	5791	N	T	0	0	0	3	3	39	0.272727	11	4.3654e-09	TRUE
+Consensus_1_peru.consensus_threshold_0_quality_20	5791	N	G	0	0	0	8	8	22	0.727273	11	2.84597e-16	TRUE
+Consensus_1_peru.consensus_threshold_0_quality_20	5791	N	-NTTT	0	0	0	1	0	20	0.0909091	11	0.0102751	FALSE
+Consensus_1_peru.consensus_threshold_0_quality_20	5792	N	C	0	0	0	3	3	39	0.2	15	4.34377e-09	TRUE
+Consensus_1_peru.consensus_threshold_0_quality_20	5792	N	A	0	0	0	12	12	22	0.8	15	8.9333e-24	TRUE
+Consensus_1_peru.consensus_threshold_0_quality_20	5794	T	G	33	33	30	3	3	39	0.0833333	36	2.84301e-05	TRUE
+Consensus_1_peru.consensus_threshold_0_quality_20	5835	G	A	1031	1031	36	2024	2024	20	0.66252	3055	0	TRUE
+Consensus_1_peru.consensus_threshold_0_quality_20	6030	A	T	491	0	38	37	0	38	0.0700758	528	3.05841e-12	TRUE
+Consensus_1_peru.consensus_threshold_0_quality_20	6911	C	T	394	394	33	14	14	28	0.0343137	408	0.0130988	FALSE
