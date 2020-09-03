@@ -62,15 +62,6 @@ plt.show()
 
 
 
-
-
-
-
-
-
-
-
-
 os.chdir("/media/viro102/HD-ADU3/kte-data/sapo-ivar/test/outbreak_samples/GI.1/10_japan/")
 import pandas as pd
 import matplotlib.pyplot as plt
