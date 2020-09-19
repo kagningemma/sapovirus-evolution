@@ -1,0 +1,76 @@
+library(ggpubr)
+library(dplyr)
+setwd("C:/Users/Virology Tohoku/Documents/MEGAsync/Manuscript e-life/Reproducibility/Genetic diversity - ok/datasets")
+data<- readxl::read_xlsx("genetic_diversity_pi.xlsx")
+
+
+index<- which(data$pi>0.7)
+data<- data[-index, ] # remove outlier
+
+
+data_peru <- data %>% filter(country=="peru")
+data_japan <- data %>% filter(country=="japan")
+
+## Fig 6-2
+ggboxplot(data, x = "country", y = "pi",
+          color = "genotype", palette = "lancet",xlab = "Genotype",  ylab= "Diversity",
+          add = "jitter", bxp.errorbar = T, ggtheme = theme_bw(), font.family = "Times New Roman")+ 
+  stat_compare_means( aes(label = ..p.signif..), 
+                      label.x = 1.5 ,label.y = 0.30 )+ font("xlab", size=15)+ font("ylab", size=15) + font("xy.text", size=13)
+
+
+
+
+
+# plot for merged dataset
+
+per<- ggboxplot(data_peru, x = "genotype", y = "pi",
+               color = "genotype", palette = "lancet",xlab = "Genotype",  ylab= "Diversity (intra-host)",
+               add = "jitter", bxp.errorbar = T, ggtheme = theme_bw(), font.family = "Times New Roman")+ 
+  stat_compare_means( aes(label = ..p.signif..), 
+                      label.x = 1.5 ,label.y = 1 )+ font("xlab", size=15)+ font("ylab", size=15) + font("xy.text", size=13)
+
+per
+
+jap = ggboxplot(data_japan, x = "genotype", y = "pi",
+               color = "genotype", palette = "lancet",xlab = "Genotype",  ylab=("Diversity (inter-host)"),
+               add = "jitter", bxp.errorbar = T, ggtheme = theme_bw(), 
+               font.family = "Times New Roman") + 
+  stat_compare_means( aes(label = ..p.signif..), 
+                      label.x = 1.5 ,label.y = 0.3 )+ font("xlab", size=15)+ font("ylab", size=15) + font("xy.text", size=13)
+
+
+jap
+
+
+
+## Plot all in one graph
+
+
+
+
+
+# Box plot with multiple groups
+# +++++++++++++++++++++
+# fill or color box plot by a second group : "supp"
+ggboxplot(df, "dose", "len", color = "supp",
+          palette = c("#00AFBB", "#E7B800"))
+
+
+
+# Box plot with multiple groups
+# +++++++++++++++++++++
+# fill or color box plot by a second group : "supp"
+ggboxplot(data, "country", "pi", color = "genotype",
+          palette = "lancet")
+
+
+
+
+library(patchwork)
+
+jap + per + plot_layout(guides="collect") +
+  plot_annotation(tag_levels = "A")
+
+ggsave(filename = "sapovirus_genetic diversity_ok.tiff", 
+       width = 22, height = 15, dpi = 350, units = "cm")
