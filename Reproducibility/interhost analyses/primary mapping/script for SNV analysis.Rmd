@@ -1,0 +1,15 @@
+---
+title: "sapovirus_study_outbreaks"
+author: "kte"
+date: "June 16, 2021"
+output: html_document
+---
+
+setwd("/media/viro102/HD-ADU3/kte-data/sapo-ivar/test/outbreak_samples/tsv files")
+import data
+```{r}
+
+```
+
+ 
+
