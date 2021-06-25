@@ -1,3 +1,0 @@
-I re-computed the outbreak reference sequence, by merging the near-complete consensus sequences from GI.1 and GI.2 primary analysis into a single file, and I uploaded it to https://www.bioinformatics.nl/cgi-bin/emboss/cons. 
-The website calculated the consensus which I checked visually to confirm the result. 
-Then, the mapping was done against the outbreak reference sequence to determine divergence between NGS reads and the outbreak consensus sequence. 
